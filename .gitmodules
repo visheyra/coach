@@ -1,0 +1,3 @@
+[submodule "coach/themes/uni"]
+	path = coach/themes/uni
+	url = https://github.com/devcows/hugo-universal-theme.git
